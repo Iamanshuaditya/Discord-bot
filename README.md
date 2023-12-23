@@ -1,4 +1,3 @@
-Certainly! Below is a sample README file for the Discord bot script you've provided. Feel free to modify it according to your needs:
 
 ```markdown
 # Discord Organizer Bot
