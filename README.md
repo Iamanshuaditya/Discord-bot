@@ -1,4 +1,4 @@
- Certainly! Here's a basic README template for your Discord Organizer Bot:
+
 
 ```markdown
 # Discord Organizer Bot
